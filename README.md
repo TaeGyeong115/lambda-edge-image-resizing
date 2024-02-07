@@ -1,1 +1,1 @@
-# lambdaEdge_imageResizing
+# Lambda@Edge Image Resizing
