@@ -1,3 +1,3 @@
 # Lambda@Edge Image Resizing
 
-[Please provide more details here.](https://medium.com/@115taegyeong/image-resizing-d4cea1b1ba55)
+[The detailed information is available at this link.](https://medium.com/@115taegyeong/image-resizing-d4cea1b1ba55)
